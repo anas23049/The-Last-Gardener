@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 55550656530c0a5f595c5d7445220644404e1b29797c27627d7f4c65b7e2303a
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 55520d515c07510a5c080e7248255d444e4f4a2f7d7f2332787f1b67e0e26c3b
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 5b030002000d0b02585b087513765c4447154c7e7e2a20632b7a4860bbb8376f
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 01570c0056005d0f585c5f7244250b44144e1b797f2b2764792d4d36e4b06368
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 540552530356515e595a087144275e4444161b7a7a7e7162282a1832bbb4633e
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 54525103540c5c5f55590e2716770e4417161e7f7a7e74672c2d4c36b2b46569
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 0055575e07530c0f5d0b5a7640750d444f161a2e7f7d7f342b284f66e7b8633a
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 0150050555575a0b5f0a5e7b4873084442151b78787e7269747f4c6ab4e3643c
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 060250575506505a0e595a2442215d44144e1c2e297a71352e2f4531e3e4356b
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
+      flags: 0
+    UnityRemoteDevice:
+      value: 225f4d46245b0d4902070862342649191512
+      flags: 0
+    UnityRemoteJoystickSource:
+      value: 315459091150
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 1
+  m_StandbyImportWorkerCount: 1
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_VCScanLocalPackagesOnConnect: 1
+  m_ArtifactGarbageCollection: 1
